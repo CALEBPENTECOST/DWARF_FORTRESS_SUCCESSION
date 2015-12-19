@@ -1,0 +1,19 @@
+No completely screwing over the fort
+Have macro goals
+Name a dwarf after you every turn
+	Use Jr, or a new name, or something
+Always be engraving!
+	Creating tombs for named dwarves is a good way to do this
+Try to document project/events?
+Turns are 2 years
+	Someone else needs to play a turn before you can play again
+No mods or graphics packs or anything
+	Play vanilla
+Leave the Base folder alone
+
+To play a turn
+Make a branch of Master
+Create your own branch
+Play turn on new branch
+When done, open pull request to merge back into master
+Convince someone else to take the next turn
