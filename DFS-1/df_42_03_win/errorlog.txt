@@ -1,0 +1,25 @@
+path fail: dwarf,Dig,42,58,176 -> 39,60,176: Id #17839:Path Goal Dig:Station Mill Building at 86,57,173
+path fail: dwarf,Dig Channel,59,146,175 -> 60,147,175: Id #17839:Path Goal Dig:Station Mill Building at 84,60,173
+path fail: dwarf,Dig Channel,64,135,177 -> 59,137,176: Id #17838:Path Goal Dig:Station Mill Building at 87,56,173
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ash logs
+DOUBLE TAGGED ITEM: Store Item in Stockpile, peach
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw rainbow trout,  [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw shad,  [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw perch, 
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw rainbow trout,  [3]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmet
+DOUBLE TAGGED ITEM: Store Item in Stockpile, pig tail
+DOUBLE TAGGED ITEM: Store Item in Stockpile, plump helmets [4]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, pig tails [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, pig tails [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw mussel [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðpear wood bin <#14>ð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, dimple cups [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw mussel [2]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw perch, 
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw mussel
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw perch,  [5]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw rainbow trout, 
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw salmon, 
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw salmon,  [3]
+DOUBLE TAGGED ITEM: Store Item in Stockpile, raw shad,  [2]
